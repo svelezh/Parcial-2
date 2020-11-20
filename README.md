@@ -8,4 +8,6 @@ Desarrollo punto 3 y 4 parcial 2 Modelos Predictivos
 
 La base de datos del Oxford-Man Institute's realised library supera el limite de Github por lo cual se sube de forma comprimida
 
+Video explicativo en: https://youtu.be/kW1LdSOWdss
+
 Sebastián Vélez
